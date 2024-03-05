@@ -1,0 +1,5 @@
+*.dll linguist-detectable=false
+*.txt linguist-detectable=true
+*.ini linguist-detectable=true
+*.rxproj linguist-detectable=true
+*.bmp linguist-detectable=true
