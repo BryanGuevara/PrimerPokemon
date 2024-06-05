@@ -71,3 +71,6 @@
 69,ELITEFOUR_Agatha,Alto Mando,100,elite,,,Female,,
 70,ELITEFOUR_Lance,Alto Mando,100,elite,,,Male,,
 71,CHAMPION,Campeón,100,elite,,,Male,,
+72,PIANO,Hno,100,elite,,,Male,,
+73,BATERIA,Hno,100,elite,,,Male,,
+74,GUIRO,Hno,100,elite,,,Male,,
